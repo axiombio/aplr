@@ -38,7 +38,6 @@ setuptools.setup(
     packages=["aplr"],
     install_requires=["numpy>=1.11"],
     python_requires=">=3.8",
-    classifiers=["License :: OSI Approved :: MIT License"],
     license="MIT",
     platforms=["Windows", "Linux", "MacOS"],
     url="https://github.com/ottenbreit-data-science/aplr",
